@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm senthil kumar.B</h1>
 <h3 align="center">"I'm not a great programmer. I'm just a good programmer with great habits."</h3>
 
-- 🌱 I’m currently learning **Front end web devolopment**
+- 🌱 I’m currently learning **To learn perfectly**
 
 - 📫 How to reach me **senthilkumar1868@gmail.com**
 
