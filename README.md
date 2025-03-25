@@ -40,43 +40,6 @@
   </a>
 </p>
 
-<h3 align="left">Technologies I'm Familiar With (Data Analytics & Cloud):</h3>
-<p align="left">
-  <!-- Data Analytics Tools -->
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://www.sas.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/SAS_Logo.svg" alt="SAS" width="40" height="40"/>
-  </a>
-  <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  
-  <!-- Cloud and DevOps Tools -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Terraform_Logo.svg" alt="Terraform" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Amazon_Web_Services_Logo.svg" alt="AWS Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/azure" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.google.com/cloud/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Google_Cloud_logo.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-</p>
-
 <h3 align="left">My Data Analytics Learning Journey:</h3>
 <ul align="left">
   <li>📊 **Advanced Python** for data analysis and automation</li>
