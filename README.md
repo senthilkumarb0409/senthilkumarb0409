@@ -15,30 +15,34 @@
 ---
 
 ### 📫 How to Reach Me:
-- ✉️ **Email:** [![Email Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_icon.svg/512px-Gmail_icon.svg.png)](mailto:senthilkumar1868@gmail.com) **[senthilkumar1868@gmail.com](mailto:senthilkumar1868@gmail.com)**
-- 💼 **LinkedIn:** [![LinkedIn Icon](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/senthil-kumar-b-441b36200/) **[linkedin.com/in/senthil-kumar-b](https://www.linkedin.com/in/senthil-kumar-b-441b36200/)**
-- 🖥️ **HackerRank:** [![HackerRank Icon](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/senthilkumar_b_1) **[hackerrank.com/senthilkumar_b_1](https://www.hackerrank.com/senthilkumar_b_1)**
-- 💬 **Discord:** [![Discord Icon](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.com/) **Phoenix#9573**
+- <img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Gmail Icon" width="20" height="20"/> **Email:** [senthilkumar1868@gmail.com](mailto:senthilkumar1868@gmail.com)
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon" width="20" height="20"/> **LinkedIn:** [linkedin.com/in/senthil-kumar-b](https://www.linkedin.com/in/senthil-kumar-b-441b36200/)
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Icon" width="20" height="20"/> **HackerRank:** [hackerrank.com/senthilkumar_b_1](https://www.hackerrank.com/senthilkumar_b_1)
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Icon" width="20" height="20"/> **LeetCode:** [leetcode.com/u/Senthilkumar_b/](https://leetcode.com/u/Senthilkumar_b/)
+
+
+
+
 
 
 ---
 
 ### ⚙️ Skills & Tools:
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
   <a href="https://www.sqlshack.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="50" height="50"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="50" height="50"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="50" height="50"/>
