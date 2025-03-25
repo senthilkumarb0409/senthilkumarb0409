@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.sqlshack.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.flaticon.com/free-icons/sql" alt="SQL" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/SQL_Server_2019_logo.svg" alt="SQL" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Microsoft_Excel_Logo_2020.svg" alt="Excel" width="40" height="40"/>
@@ -39,6 +39,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
   </a>
 </p>
+
 
 <h3 align="left">My Data Analytics Learning Journey:</h3>
 <ul align="left">
