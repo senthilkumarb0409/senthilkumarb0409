@@ -15,10 +15,11 @@
 ---
 
 ### 📫 How to Reach Me:
-- ✉️ **Email:** [senthilkumar1868@gmail.com](mailto:senthilkumar1868@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/senthil-kumar-b](https://www.linkedin.com/in/senthil-kumar-b-441b36200/)
-- 🖥️ **HackerRank:** [hackerrank.com/senthilkumar_b_1](https://www.hackerrank.com/senthilkumar_b_1)
-- 💬 **Discord:** **Phoenix#9573**
+- ✉️ **Email:** [![Email Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_icon.svg/512px-Gmail_icon.svg.png)](mailto:senthilkumar1868@gmail.com) **[senthilkumar1868@gmail.com](mailto:senthilkumar1868@gmail.com)**
+- 💼 **LinkedIn:** [![LinkedIn Icon](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/senthil-kumar-b-441b36200/) **[linkedin.com/in/senthil-kumar-b](https://www.linkedin.com/in/senthil-kumar-b-441b36200/)**
+- 🖥️ **HackerRank:** [![HackerRank Icon](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/senthilkumar_b_1) **[hackerrank.com/senthilkumar_b_1](https://www.hackerrank.com/senthilkumar_b_1)**
+- 💬 **Discord:** [![Discord Icon](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.com/) **Phoenix#9573**
+
 
 ---
 
