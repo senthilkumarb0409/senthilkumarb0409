@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | Passionate Learner | Problem Solver</h3>
 
 <p align="center">
-  🌟 "I'm not a great programmer. I'm just a good programmer with great habits." 🌟
+  🌟 "I'm not a great Analyst. I'm just a good Analyst with great habits." 🌟
 </p>
 
 ---
